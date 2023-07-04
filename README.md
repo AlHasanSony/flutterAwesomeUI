@@ -17,12 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="294" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/2e519572-0c9a-4a05-b373-7108b7c22179">
 
-<img width="393" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/dd771b69-a8cf-4bfd-9610-2ba33c114bd6">
+<img width="261" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/71fc8aeb-145e-498d-ac4c-0de8b7dee6ab">
 
+<img width="267" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/45a17f98-91fe-43bc-bf95-e48cb95b67e9">
 
-<img width="329" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/fb017c18-7721-41b0-acd4-902d136fc863">
+<img width="266" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/08f9d2ea-5e64-4ddc-9bac-4d0b332d7c54">
 
-<img width="400" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/d46c6b7e-226a-4010-8d2e-a62117fb4a83">
 
 <img width="398" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/eef6940a-15af-49b2-98b1-939869ed18e7">
 
