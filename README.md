@@ -55,6 +55,9 @@ Enter verificaiton code: 12345
 
 <img width="266" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/495e22bd-6d06-471a-af71-192f068ec1fa">
 
+<img width="276" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/c35d4a21-48e7-4ddc-94d8-6ec289b5f802">
+
+
 
 
 
