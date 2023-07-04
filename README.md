@@ -20,13 +20,10 @@ samples, guidance on mobile development, and a full API reference.
 <img width="261" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/71fc8aeb-145e-498d-ac4c-0de8b7dee6ab">
 
 <img width="267" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/45a17f98-91fe-43bc-bf95-e48cb95b67e9">
-
 <img width="266" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/08f9d2ea-5e64-4ddc-9bac-4d0b332d7c54">
-Sign in, Sign up Screen
 <img width="261" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/314f1a3e-207e-4c04-940e-42931902c879">
 
 Enter verificaiton code: 12345
-
 <img width="270" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/2b4ab083-f282-4374-95d5-c3a9bfde7d28">
 
 <img width="267" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/89cdc812-11ab-43e2-b6c9-c3d404aabe50">
