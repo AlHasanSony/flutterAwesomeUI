@@ -1,12 +1,12 @@
-# flutterui
+## Copyright
 
-A new Flutter project.
+The code in this repository is the property of Al Hasan Sony and is protected by copyright laws.
 
-## Getting Started
+You are allowed to use this code for personal or educational purposes. 
+However, you may not distribute, modify, or sell this code or any derivative works without explicit permission from Al Hasan Sony.
 
-This project is a starting point for a Flutter application.
+All rights reserved by Al Hasan Sony. Unauthorized use, reproduction, or distribution of this code or any portion thereof may result in legal consequences.
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
