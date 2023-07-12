@@ -1,11 +1,11 @@
 ## Copyright
 
-The code in this repository is the property of Al Hasan Sony and is protected by copyright laws.
+The code in this repository is the property of Al Hasan Sony.
 
-You are allowed to use this code for personal or educational purposes. 
-However, you may not distribute, modify, or sell this code or any derivative works without explicit permission from Al Hasan Sony.
+You are allowed to use this code for personal, educational, and commercial purposes.
+However, if you use this code for commercial purposes, please provide appropriate credit to Al Hasan Sony.
 
-All rights reserved by Al Hasan Sony. Unauthorized use, reproduction, or distribution of this code or any portion thereof may result in legal consequences.
+All rights reserved by Al Hasan Sony.
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
