@@ -1,4 +1,7 @@
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=FFDD00)](https://www.buymeacoffee.com/sonyhasan)
+
+
 
 <img width="294" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/2e519572-0c9a-4a05-b373-7108b7c22179">
 
@@ -68,7 +71,6 @@ Enter verificaiton code: 12345
 <img width="267" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/237633eb-ce19-4386-8717-a4b7073733df">
 
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/sonyhasan)
 
 
 
