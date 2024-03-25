@@ -1,19 +1,4 @@
-## Copyright
 
-The code in this repository is the property of Al Hasan Sony.
-
-You are allowed to use this code for personal, educational, and commercial purposes. 
-However, if you use this code for commercial purposes, please provide appropriate credit to Al Hasan Sony.
-
-All rights reserved by Al Hasan Sony.
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 <img width="294" alt="image" src="https://github.com/AlHasanSony/flutterAwesomeUI/assets/48161357/2e519572-0c9a-4a05-b373-7108b7c22179">
 
@@ -84,6 +69,7 @@ Enter verificaiton code: 12345
 
 
 
+https://www.buymeacoffee.com/sonyhasan
 
 
 
